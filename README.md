@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Aaliya
 
-<!--
-**aaliya1719/aaliya1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech CSE student building my way through code, one project at a time.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working web applications and exploring how software systems are built in the real world. My focus is on learning by building, improving step by step, and staying consistent with hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 Exploring Software Development, Web Development, Open Source, AI/ML, and Generative AI  
+🌱 Learning by building projects, experimenting with new ideas, and improving through hands-on practice  
+🚀 Focused on strengthening problem-solving skills and growing with every project  
+
+---
+
+## 🛠 Tech Stack
+
+• Python  
+• HTML/CSS  
+• JavaScript  
+• Basic PHP  
+• Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+
+✨ Veritas AI – AI-based auditing platform focused on reducing bias in evaluation systems  
+🧭 Campus Lost & Found – Web application for reporting and tracking lost campus items  
+💻 CogniSpark – AI-powered study assistant platform  
+💰 SpendWise – Smart expense tracker with insights and simulations  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/aaliya-shaikh-4080b93a0  
+💻 GitHub: https://github.com/aaliya1719  
+
+---
+
+Always building, learning, and improving one project at a time.
