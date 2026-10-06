@@ -1,12 +1,12 @@
 # Hi, I'm Aaliya
 
-First-year B.Tech CSE student building my way through code, one project at a time.
+Second Year B.Tech CSE student building my way through code, one project at a time.
 
 I enjoy turning ideas into working web applications and exploring how software systems are built in the real world. My focus is on learning by building, improving step by step, and staying consistent with hands-on development.
 
 ---
 
-💻 Exploring Software Development, Web Development, Open Source, AI/ML, and Generative AI  
+💻 Exploring Software Development, Web Development, Open Source, AI/ML, Agentic AI and Generative AI  
 🌱 Learning by building projects, experimenting with new ideas, and improving through hands-on practice  
 🚀 Focused on strengthening problem-solving skills and growing with every project  
 
@@ -14,12 +14,11 @@ I enjoy turning ideas into working web applications and exploring how software s
 
 ## 🛠 Tech Stack
 
-• Python  
-• HTML/CSS  
-• JavaScript  
-• Basic PHP  
-• Git & GitHub  
-
+Programming: Python, C, Java (learning) 
+Web & Backend Technologies: React, HTML, CSS,  JavaScript, FastAPI, Supabase, Streamlit 
+AI & Cloud: Generative AI, Large Language Models (LLMs), Prompt Engineering, Agentic AI, Google ADK 
+Tools & Platforms: Git, GitHub, Vercel, AWS, GCP 
+Currently Learning: Data Structures & Algorithms (Java), Machine Learning, Agentic AI Development 
 ---
 
 ## 📌 Featured Projects
