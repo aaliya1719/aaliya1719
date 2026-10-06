@@ -14,19 +14,25 @@ I enjoy turning ideas into working web applications and exploring how software s
 
 ## 🛠 Tech Stack
 
-Programming: Python, C, Java (learning) 
-Web & Backend Technologies: React, HTML, CSS,  JavaScript, FastAPI, Supabase, Streamlit 
-AI & Cloud: Generative AI, Large Language Models (LLMs), Prompt Engineering, Agentic AI, Google ADK 
-Tools & Platforms: Git, GitHub, Vercel, AWS, GCP 
-Currently Learning: Data Structures & Algorithms (Java), Machine Learning, Agentic AI Development 
+**Programming:** Python, C, Java *(learning)*  
+**Web & Backend Technologies:** React, HTML, CSS, JavaScript, FastAPI, Supabase, Streamlit  
+**AI & Cloud:** Generative AI, Large Language Models (LLMs), Prompt Engineering, Agentic AI, Google ADK  
+**Tools & Platforms:** Git, GitHub, Vercel, AWS, GCP  
+**Currently Learning:** Data Structures & Algorithms (Java), Machine Learning, Agentic AI Development
+
 ---
 
 ## 📌 Featured Projects
 
-✨ Veritas AI – AI-based auditing platform focused on reducing bias in evaluation systems  
-🧭 Campus Lost & Found – Web application for reporting and tracking lost campus items  
-💻 CogniSpark – AI-powered study assistant platform  
-💰 SpendWise – Smart expense tracker with insights and simulations  
+🧭 **Odyssey** – AI-assisted productivity platform that turns scattered goals and tasks into actionable missions
+
+🇮🇳 **Virasat** – Interactive heritage platform for exploring India's cultural regions, traditions, and heritage
+
+📊 **ExecMind AI** – Multi-agent business analysis platform for dataset-driven insights and executive reporting
+
+✨ **Veritas AI** – AI-based auditing platform focused on reducing bias in evaluation systems
+
+💻 **Campus Lost & Found** – Web application for reporting and tracking lost campus items
 
 ---
 
