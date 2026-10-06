@@ -1,14 +1,14 @@
-# Hi, I'm Aaliya
+## Hi, I'm Aaliya 👋
 
 Second Year B.Tech CSE student building my way through code, one project at a time.
 
-I enjoy turning ideas into working web applications and exploring how software systems are built in the real world. My focus is on learning by building, improving step by step, and staying consistent with hands-on development.
+I enjoy turning ideas into working applications and exploring how software systems are built in the real world. I learn best by building, experimenting, and improving through hands-on development.
 
 ---
 
-💻 Exploring Software Development, Web Development, Open Source, AI/ML, Agentic AI and Generative AI  
-🌱 Learning by building projects, experimenting with new ideas, and improving through hands-on practice  
-🚀 Focused on strengthening problem-solving skills and growing with every project  
+💻 Exploring Software Development, Web Development, Open Source, AI/ML, Agentic AI, and Generative AI  
+🌱 Learning by building projects, experimenting with new ideas, and strengthening my technical skills  
+🚀 Focused on problem-solving, continuous learning, and building better projects with every iteration
 
 ---
 
