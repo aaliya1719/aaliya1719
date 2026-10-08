@@ -43,4 +43,4 @@ I enjoy turning ideas into working applications and exploring how software syste
 
 ---
 
-Always building, learning, and improving one project at a time.
+Always exploring, building, learning, and improving one project at a time.
