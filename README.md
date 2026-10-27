@@ -15,10 +15,10 @@ I enjoy turning ideas into working applications and exploring how software syste
 ## 🛠 Tech Stack
 
 **Programming:** Python, C, Java  
-**Web & Backend Technologies:** React, HTML, CSS, JavaScript, FastAPI, Supabase, Streamlit  
+**Web & Backend Technologies:** React, HTML, CSS, JavaScript, Supabase, Streamlit  
 **AI & Cloud:** Generative AI, Large Language Models (LLMs), Prompt Engineering, Agentic AI, Google ADK  
 **Tools & Platforms:** Git, GitHub, Vercel, AWS, GCP  
-**Currently Learning:** Data Structures & Algorithms (Java), Machine Learning, Agentic AI Development
+**Currently Learning:** Data Structures & Algorithms (Java), Machine Learning, Agentic AI Development, Frontend Development Technologies
 
 ---
 
